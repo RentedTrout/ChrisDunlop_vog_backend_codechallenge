@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using VogCodeChallenge.API.Classes;
 namespace ChrisDunlop_vog_backend_codechalleneg.Classes
